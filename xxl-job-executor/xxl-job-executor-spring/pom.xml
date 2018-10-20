@@ -36,4 +36,7 @@
 		</dependency>
 	</dependencies>
 
+	<build>
+		<finalName>xxl-job-executor</finalName>
+	</build>
 </project>
